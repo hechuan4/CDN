@@ -1,2 +1,2 @@
-# img
-blog-img
+# cdn
+cdn
